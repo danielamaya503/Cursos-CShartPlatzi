@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Git\\Cursos-CShartPlatzi\\Curso_Pruebas_Unitaria\\Curso.Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96395384-B361-4352-A43C-5FB60F2B4F70}|Curso.Test\\Curso.Test.csproj|c:\\users\\aleja\\onedrive\\escritorio\\git\\cursos-cshartplatzi\\curso_pruebas_unitaria\\curso.test\\curso.test\\customernameservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96395384-B361-4352-A43C-5FB60F2B4F70}|Curso.Test\\Curso.Test.csproj|solutionrelative:curso.test\\customernameservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9354AE39-DFDD-473A-B2A3-5E536AC931ED}|Curso\\Curso.csproj|c:\\users\\aleja\\onedrive\\escritorio\\git\\cursos-cshartplatzi\\curso_pruebas_unitaria\\curso.test\\curso\\registro\\custumernameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9354AE39-DFDD-473A-B2A3-5E536AC931ED}|Curso\\Curso.csproj|solutionrelative:curso\\registro\\custumernameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96395384-B361-4352-A43C-5FB60F2B4F70}|Curso.Test\\Curso.Test.csproj|c:\\users\\aleja\\onedrive\\escritorio\\git\\cursos-cshartplatzi\\curso_pruebas_unitaria\\curso.test\\curso.test\\productservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96395384-B361-4352-A43C-5FB60F2B4F70}|Curso.Test\\Curso.Test.csproj|solutionrelative:curso.test\\productservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerNameServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Git\\Cursos-CShartPlatzi\\Curso_Pruebas_Unitaria\\Curso.Test\\Curso.Test\\CustomerNameServiceTest.cs",
+              "RelativeDocumentMoniker": "Curso.Test\\CustomerNameServiceTest.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Git\\Cursos-CShartPlatzi\\Curso_Pruebas_Unitaria\\Curso.Test\\Curso.Test\\CustomerNameServiceTest.cs*",
+              "RelativeToolTip": "Curso.Test\\CustomerNameServiceTest.cs*",
+              "ViewState": "AgIAAGwAAAAAAAAAAAA2wIYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:24:01.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustumerNameService.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Git\\Cursos-CShartPlatzi\\Curso_Pruebas_Unitaria\\Curso.Test\\Curso\\Registro\\CustumerNameService.cs",
+              "RelativeDocumentMoniker": "Curso\\Registro\\CustumerNameService.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Git\\Cursos-CShartPlatzi\\Curso_Pruebas_Unitaria\\Curso.Test\\Curso\\Registro\\CustumerNameService.cs",
+              "RelativeToolTip": "Curso\\Registro\\CustumerNameService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:14:39.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Git\\Cursos-CShartPlatzi\\Curso_Pruebas_Unitaria\\Curso.Test\\Curso.Test\\ProductServiceTest.cs",
+              "RelativeDocumentMoniker": "Curso.Test\\ProductServiceTest.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Git\\Cursos-CShartPlatzi\\Curso_Pruebas_Unitaria\\Curso.Test\\Curso.Test\\ProductServiceTest.cs",
+              "RelativeToolTip": "Curso.Test\\ProductServiceTest.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAiwI4AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T01:28:56.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

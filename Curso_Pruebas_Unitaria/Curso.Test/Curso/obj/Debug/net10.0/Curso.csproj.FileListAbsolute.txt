@@ -1,0 +1,15 @@
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\bin\Debug\net10.0\Curso.exe
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\bin\Debug\net10.0\Curso.deps.json
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\bin\Debug\net10.0\Curso.runtimeconfig.json
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\bin\Debug\net10.0\Curso.dll
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\bin\Debug\net10.0\Curso.pdb
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\obj\Debug\net10.0\Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\obj\Debug\net10.0\Curso.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\obj\Debug\net10.0\Curso.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\obj\Debug\net10.0\Curso.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\obj\Debug\net10.0\Curso.sourcelink.json
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\obj\Debug\net10.0\Curso.dll
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\obj\Debug\net10.0\refint\Curso.dll
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\obj\Debug\net10.0\Curso.pdb
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\obj\Debug\net10.0\Curso.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Escritorio\Git\Cursos-CShartPlatzi\Curso_Pruebas_Unitaria\Curso.Test\Curso\obj\Debug\net10.0\ref\Curso.dll
